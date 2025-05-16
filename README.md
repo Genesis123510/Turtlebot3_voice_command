@@ -11,4 +11,4 @@ Clone this repo on your workspace e.g ros2 inside the src file:
 $ git clone https://github.com/Genesis123510/coqui_speaker
 
 Run the code using:
-    python3 ~/<workspace name>/src/coqui_speaker/coqui_speaker/coqui_speaker_node.py 
+    python3 ~/<workspace_name>/src/coqui_speaker/coqui_speaker/coqui_speaker_node.py 
